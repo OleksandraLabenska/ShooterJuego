@@ -1,0 +1,2 @@
+F:\UnityProjects\Oleksandra_Shooter\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\UnityProjects\Oleksandra_Shooter\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
